@@ -1,0 +1,24 @@
+body {
+    background-color: darkgrey;
+}
+.picture {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 200px;
+    color: rgb(30, 92, 118);
+    font-family: "Raleway", sans-serif;
+    text-align:center;
+}
+h1 {
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: "Madimi One", sans-serif;
+    color: brown;
+}
+
+.image {
+    border: 5px;
+    width:100%
+}
